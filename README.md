@@ -66,5 +66,3 @@ Please report bugs and request features using the JIRA.
 [Identity and Access Management]: https://console.aws.amazon.com/iam
 [Amazon Polly]: https://us-east-2.console.aws.amazon.com/polly
 
-# AKIAU7MVVHTHNNPXWUFM
-# ismiglbxuIv49RF1AvZ2EdnCTQSb0Uzc4WA6odap
